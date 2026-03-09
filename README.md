@@ -206,13 +206,13 @@ This project is designed to run **at zero cost**.
 
 # 🧠 Key Features
 
-✔ Multi-Agent AI architecture
-✔ Retrieval-Augmented Generation (RAG)
-✔ Live web search integration
-✔ Downloadable learning materials
-✔ Fully local and free
-✔ Streamlit UI
-✔ Clean modular design
+- ✔ Multi-Agent AI architecture
+- ✔ Retrieval-Augmented Generation (RAG)
+- ✔ Live web search integration
+- ✔ Downloadable learning materials
+- ✔ Fully local and free
+- ✔ Streamlit UI
+- ✔ Clean modular design
 
 ---
 
