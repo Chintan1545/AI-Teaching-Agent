@@ -1,0 +1,43 @@
+As a Research Librarian, I've compiled a list of resources on machine learning, including books, courses, YouTube channels, GitHub repositories, and official documentation. Here they are:
+
+**Books:**
+
+1. **"Python Machine Learning" by Sebastian Raschka**: A comprehensive guide to machine learning with Python, covering topics from basics to advanced techniques.
+2. **"Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville**: A detailed book on deep learning, including convolutional networks, recurrent networks, and generative models.
+3. **"Machine Learning" by Andrew Ng and Michael I. Jordan**: A classic textbook on machine learning, covering topics such as supervised and unsupervised learning, linear regression, and neural networks.
+4. **"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron**: A practical guide to machine learning with popular Python libraries, including Scikit-Learn, Keras, and TensorFlow.
+5. **"Pattern Recognition and Machine Learning" by Christopher M. Bishop**: A comprehensive textbook on machine learning, covering topics such as probability theory, linear regression, and neural networks.
+
+**Courses:**
+
+1. **Andrew Ng's Machine Learning Course (Coursera)**: A popular online course on machine learning, covering topics such as supervised and unsupervised learning, linear regression, and neural networks.
+2. **Stanford University's Machine Learning Course (Stanford Online)**: A graduate-level course on machine learning, covering topics such as probabilistic graphical models, deep learning, and natural language processing.
+3. **Machine Learning with Python (DataCamp)**: An interactive course on machine learning with Python, covering topics such as data preprocessing, model selection, and model evaluation.
+4. **Deep Learning Specialization (Coursera)**: A series of courses on deep learning, covering topics such as convolutional networks, recurrent networks, and generative models.
+5. **Machine Learning with TensorFlow (Udacity)**: A course on machine learning with TensorFlow, covering topics such as linear regression, neural networks, and deep learning.
+
+**YouTube Channels:**
+
+1. **3Blue1Brown (Grant Sanderson)**: A popular YouTube channel on machine learning, deep learning, and data science, known for its animated explanations and visualizations.
+2. **Machine Learning Mastery (Jason Brownlee)**: A channel on machine learning, covering topics such as supervised and unsupervised learning, linear regression, and neural networks.
+3. **Sentdex (Harrison Kinsley)**: A channel on machine learning, deep learning, and natural language processing, with a focus on practical applications and coding examples.
+4. **Siraj Raval**: A channel on machine learning, deep learning, and data science, with a focus on hands-on tutorials and project-based learning.
+5. **Machine Learning with Phil (Phil Tabor)**: A channel on machine learning, covering topics such as supervised and unsupervised learning, linear regression, and neural networks, with a focus on practical applications.
+
+**GitHub Repositories:**
+
+1. **TensorFlow (tensorflow/tensorflow)**: The official GitHub repository for TensorFlow, a popular open-source machine learning library.
+2. **PyTorch (pytorch/pytorch)**: The official GitHub repository for PyTorch, a popular open-source machine learning library.
+3. **Scikit-Learn (scikit-learn/scikit-learn)**: The official GitHub repository for Scikit-Learn, a popular open-source machine learning library for Python.
+4. **Keras (keras-team/keras)**: The official GitHub repository for Keras, a popular open-source deep learning library.
+5. **OpenCV (opencv/opencv)**: The official GitHub repository for OpenCV, a popular open-source computer vision library with machine learning applications.
+
+**Official Documentation:**
+
+1. **TensorFlow Documentation (tensorflow.org)**: The official documentation for TensorFlow, covering topics such as installation, tutorials, and API references.
+2. **PyTorch Documentation (pytorch.org)**: The official documentation for PyTorch, covering topics such as installation, tutorials, and API references.
+3. **Scikit-Learn Documentation (scikit-learn.org)**: The official documentation for Scikit-Learn, covering topics such as installation, tutorials, and API references.
+4. **Keras Documentation (keras.io)**: The official documentation for Keras, covering topics such as installation, tutorials, and API references.
+5. **Machine Learning Crash Course (google.com/machinelearning)**: A free online course on machine learning, covering topics such as supervised and unsupervised learning, linear regression, and neural networks, with a focus on practical applications and coding examples.
+
+I hope these resources help you get started with machine learning!
